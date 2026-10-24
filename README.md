@@ -21,12 +21,6 @@
 
 *以上图片节选自论文中的真实机器人实验，仅展示定性过程。*
 
-### 灵巧手抓取演示视频
-
-展示 Baxter 与 FreeHandy 五指灵巧手的真实抓取过程。
-
-https://github.com/user-attachments/assets/eac71d30-97a1-430f-8690-e401e8ab9877
-
 ## 实验平台与后续方向
 
 实验平台由 Baxter 双臂协作机器人、FreeHandy 五指灵巧手与 Intel RealSense D435i 深度相机组成，基于 ROS 完成感知、规划与执行。
